@@ -5,5 +5,6 @@ A verilog project to implement and test interrupt controller using Modelsim soft
 
 ---
 **Files**
-1. (TestBench)[tb_interrupt_controller.v]
-2. 
+1. [TestBench](tb_interrupt_controller.v)
+2. [Design](interrupt_controller.v)
+3. [Run.do](run.do)
