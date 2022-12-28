@@ -1,4 +1,4 @@
-# Interrupt Controller using Verilog
+# Interrupt Controller
 A project to implement and test interrupt controller using Questasim software.
 - Design made using Verilog and Testbench made in 2 versions: System Verilog and Verilog.
 - Supports programming priorities for each device using Advanced Peripheral Bus(APB) protocol by master.
